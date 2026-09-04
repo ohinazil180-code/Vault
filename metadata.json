@@ -1,0 +1,6 @@
+{
+  "name": "Private Vault Ω",
+  "description": "Project Aegis — Next-generation personal privacy platform and AEGIS AI Core assistant with Google Search grounding, deep research mode, strict permission boundaries, and offline-first AES-256-GCM vault security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
